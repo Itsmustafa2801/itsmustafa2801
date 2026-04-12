@@ -8,7 +8,7 @@ I'm a passionate Full Stack Developer with expertise in building cross-platform 
 - 🌱 Exploring open source LLMs for AI chatbot integration
 - 👯 Looking to collaborate on full-stack React/Node.js projects
 - 💬 Ask me about React, React Native, Node.js, or WordPress development
-- ⚡ Fun fact: I delivered my first client project at 18
+- ⚡ Fun fact: I delivered my first client project at 16
 
 ---
 
